@@ -1,0 +1,28 @@
+{
+  "name": "handleball.js",
+  "version": "0.0.1",
+  "description": "Simple router for node.",
+  "main": "router.js",
+  "dependencies": {
+    "lodash": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheOneYouDontLike/handleball.js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "router"
+  ],
+  "author": "TheOneYouDontLike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheOneYouDontLike/handleball.js/issues"
+  },
+  "homepage": "https://github.com/TheOneYouDontLike/handleball.js"
+}
