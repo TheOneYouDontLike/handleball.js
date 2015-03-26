@@ -11,7 +11,7 @@
     "sinon": "^1.14.1"
   },
   "scripts": {
-    "test": "test"
+    "test": "mocha router.spec.js"
   },
   "repository": {
     "type": "git",
