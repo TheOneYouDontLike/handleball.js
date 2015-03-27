@@ -28,6 +28,14 @@ router.httpGet('/cartoonCharacters/{id}', function(request, response, params) {
 });
 ```
 
+### Connecting with node server
+
+```javascript
+http.createServer(function(request, response) {
+    router.route(request, response);
+}).listen(8888);
+```
+
 ## License
 
 MIT
