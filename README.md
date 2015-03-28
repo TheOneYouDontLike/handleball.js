@@ -4,7 +4,7 @@ Router I use in my node examples. Written to practice js/lodash. Name was genera
 
 ## Installation
 
-    $ npm install git://github.com/thenativeweb/assertthat.git
+    $ npm install git://github.com/TheOneYouDontLike/handleball.js.git
 
 ## Quick Start
 
