@@ -9,7 +9,17 @@ Router I use in my node examples. Written to practice js/lodash. Name was genera
 ## Quick Start
 
 ```javascript
-var router = require('handball.js');
+var Router = require('handball.js');
+
+var router = new Router(<options>);
+```
+
+Currently supported *options*:
+
+```javascript
+var options = {
+    showLog: true //routing logs will be shown in console
+}
 ```
 
 ### Basic router
